@@ -1,2 +1,5 @@
-PilarAlonso
+# Archivo CODEOWNERS para el repositorio
+
+# Propietario de la carpeta Pilar
+/Pilar/ @PilarAlonsoSTEMDO
 DavidBoffelli
