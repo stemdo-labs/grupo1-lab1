@@ -1,13 +1,13 @@
 # Archivo CODEOWNERS para el repositorio
 
 # Propietario de la carpeta machinelearning
-/machinelearning/ @DavidBoffelli
+/machinelearning/ @Davidnboffelli
 
 # Propietario de los archivos .html
 *.html @PilarAlonsoSTEMDO
 
 # Propietario del file dentro de machinelearning
-/machinelearning/ml.txt @DavidBoffelli
+/machinelearning/ml.txt @Davidnboffelli
 
 **/Pilar @PilarAlonsoSTEMDO
-**/David @DavidBoffelli
+**/David @Davidnboffelli
